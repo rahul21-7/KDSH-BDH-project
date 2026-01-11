@@ -1,8 +1,3 @@
-Since you're participating in the KDSH (Kharagpur Data Science Hackathon), your README should be professional, explain the BDH (Brain-Derived Hypergraph) architecture, and clearly outline how to reproduce your results.
-
-Here is a structured README.md tailored for your project.
-
-BDH-Based Plot Contradiction Detection
 Track B: Character & Plot Consistency Analysis
 This repository contains a solution for detecting plot contradictions in long-form narratives using the Brain-Derived Hypergraph (BDH) architecture. The system "reads" full-length novels to establish a narrative "memory" and then evaluates whether specific backstories are consistent with that established state.
 
